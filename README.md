@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **React Native and mobile dev**
 
-- 📫 How to reach me **binder.benjamin@outlook.de**
+- 📫 **binder.benjamin@outlook.de**
 
-- ⚡ Fun fact **I like snowboarding 🏂, surfing 🏄‍♂️ and tennis 🎾**
+- ⚡ **I like snowboarding 🏂, surfing 🏄‍♂️ and tennis 🎾**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
