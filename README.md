@@ -1,11 +1,13 @@
-<h1 align="center">👋 Hey there 👋 I'm Benjamin</h1>
-<p align="left">a self-taught fullstack webdev from Munich, Germany. I like frontend development, good UX and agile team work. I'm also verz passionated about automated testing, refactoring and CI/CD</p>
+<h1 align="center">👋 < Servus, World /> 👋 </h1>
+<p align="left">I'm Benjamin, a self-taught fullstack webdev from Munich, Germany. I like frontend development, good UX and agile team work. I'm passionated about automated testing, refactoring and CI/CD</p>
 
 - 🌱 I’m currently learning **React Native and mobile dev**
 
 - 📫 **binder.benjamin@outlook.de**
 
-- ⚡ **I like snowboarding 🏂, surfing 🏄‍♂️ and tennis 🎾**
+- ⚡ I like snowboarding 🏂 surfing 🏄‍♂️ and tennis 🎾
+
+- 🏫 I did my Master studies in **Innsbruck, Austria** ⛰️ and wrote my <a href="https://dbis.uibk.ac.at/author-profiling-social-question-and-answer-networks" target="blank">**Master Thesis** 🎓</a> about NPL in the field of Author profiling
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
