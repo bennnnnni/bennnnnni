@@ -5,7 +5,7 @@
 
 - 📫 **binder.benjamin@outlook.de**
 
-- ⚡ I like snowboarding 🏂 surfing 🏄‍♂️ and tennis 🎾
+- ⚡ Besides coding I like snowboarding 🏂 surfing 🏄‍♂️ and tennis 🎾
 
 - 🏫 I did my Master studies in **Innsbruck, Austria** ⛰️ and wrote my <a href="https://dbis.uibk.ac.at/author-profiling-social-question-and-answer-networks" target="blank">**Master Thesis** 🎓</a> about NPL in the field of Author profiling
 
