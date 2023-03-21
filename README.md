@@ -7,7 +7,7 @@
 
 - ⚡ Besides coding I like snowboarding 🏂 surfing 🏄‍♂️ and tennis 🎾
 
-- 🏫 I did my Master studies in **Innsbruck, Austria** ⛰️ and wrote my <a href="https://dbis.uibk.ac.at/author-profiling-social-question-and-answer-networks" target="blank">**Master Thesis** 🎓</a> about NPL in the field of Author profiling
+- 🏫 I did my Master studies in **Innsbruck, Austria** ⛰️ and wrote my <a href="https://dbis.uibk.ac.at/author-profiling-social-question-and-answer-networks" target="blank">**Master Thesis** 🎓</a> about NLP in the field of Author profiling
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
