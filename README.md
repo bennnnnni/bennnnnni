@@ -1,7 +1,7 @@
 <h1 align="center">👋 < Servus, World /> 👋 </h1>
 <p align="left">I'm Benjamin, a self-taught fullstack webdev from Munich, Germany. I like frontend development, good UX and agile team work. I try my best in regards to automated testing, refactoring and CI/CD</p>
 
-- 🌱 I’m currently learning **NEXT js**
+- 🌱 I’m currently learning **NEXT js** and **react-query**
 
 - 📫 **binder.benjamin@outlook.de**
 
