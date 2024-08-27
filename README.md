@@ -1,7 +1,10 @@
-<h1 align="center">👋 < Servus, World /> 👋 </h1>
-<p align="left">I'm Benjamin, a self-taught fullstack webdev from Munich, Germany. I like frontend development, good UX and agile team work. I try my best in regards to automated testing, refactoring and CI/CD</p>
+<h1 align="center">👋 < Servus, World />  🤙</h1>
+<p align="left">Hi, I'm Benjamin, a self-taught full-stack web developer based in Munich, Germany. I'm passionate about frontend development and crafting user-friendly interfaces. I enjoy working in agile teams, delivering high-quality products, and am dedicated to best practices like automated testing and continous refactoring. </p>
 
-- 🌱 I’m currently learning <a href="https://tanstack.com/query/latest"> **react-query** </a> and eager to learn all about state management in modern web apps
+- 🌱 currently learning all about :
+  - <a href="https://tanstack.com/query/latest"> **react-query** </a>
+  - <a href="https://reactrouter.com/en/main"> **react-router** </a>
+  - <a href="https://nextjs.org/"> **NextJS** </a>
 
 - 📫 **binder.benjamin@outlook.de**
 
